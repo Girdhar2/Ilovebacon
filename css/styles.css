@@ -1,0 +1,37 @@
+body{
+  background-image: linear-gradient(to right, #89B5AF, #DED9C4 );
+  text-align: center;
+}
+
+h1{
+  color: #396EB0 ;
+  font-size: 100px ;
+}
+/*h1:hover {
+  color: #3E065F;
+}*/
+
+p{
+  color: #34BE82 ;
+  font-size: 50px ;
+}
+
+p:hover {
+  color: #125C13 ;
+}
+
+img {
+  height: 300px ;
+  align-items: center;
+}
+
+.bacon2 {
+  opacity: .75 ;
+}
+
+.bacon3 {
+  opacity: .5 ;
+}
+/*img:hover {
+  opacity: 1 ;
+}*/
